@@ -28,7 +28,7 @@ The app is available for two platforms:
 
 ## Screens
 
-<img src="Images/Bindable StackLayout.png" Width="280" /> <img src="Images/Bindable FlexLayout.png" Width="280" />
+<img src="Images/BindableStackLayout.png" Width="280" /> <img src="Images/BindableFlexLayout.png" Width="280" />
 
 ## Requirements
 
