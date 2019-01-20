@@ -22,10 +22,6 @@ namespace BindableLayoutPlayground.Droid
             Xamarin.Forms.Forms.Init(this, savedInstanceState);
             ImageCircleRenderer.Init();
             LoadApplication(new App());
-
-#if DEBUG
-            XAMLator.Server.PreviewServer.Run();
-#endif
         }
     }
 }
