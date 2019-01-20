@@ -2,6 +2,8 @@
 
 **BindableLayout Playground** is a Xamarin.Forms sample to show how to use Bindable Layout. This sample is based on [User Profile Screen](https://dribbble.com/shots/4148230-User-Profile-Screen-Weather-App) designed by [Hernan Vionnet](https://dribbble.com/hernanvionnet).
 
+![Color Helper](images/BindableLayoutPlayground.gif)
+
 ***NOTES**:The icons of the App are not exactly the same. Used similar icons taken from [Metro Studio](https://www.syncfusion.com/downloads/metrostudio).* 
 
 ## Xamarin.Forms App (BindableLayout Playground)
@@ -26,7 +28,7 @@ The app is available for two platforms:
 
 ## Screens
 
-![Color Helper](images/BindableLayoutPlayground.gif)
+<img src="Images/Bindable StackLayout.png" Width="280" /> <img src="Images/Bindable FlexLayout.png" Width="280" />
 
 ## Requirements
 
